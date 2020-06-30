@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mai Hotal</string>
+    <string name="email">Enter your Email</string>
+    <string name="password">Enter your Password</string>
+    <string name="login">Sign In</string>
+    <string name="register">Sign Up!</string>
+    <string name="logout">Logout</string>
+    <string name="profile">View Profile</string>
+    <string name="search_rooms">Search Rooms</string>
+    <string name="view_reservations">View Reservations</string>
+    <string name="view_available_rooms">View Available Rooms</string>
+    <string name="view_users">View Users</string>
+</resources>
